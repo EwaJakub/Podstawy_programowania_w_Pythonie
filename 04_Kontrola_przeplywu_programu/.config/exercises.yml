@@ -1,0 +1,11 @@
+exercises:
+    '1_Pętla while': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Poprawnie wykonane polecenie' }] }
+    '2_Kolejne potęgi': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Poprawnie wykonane polecenie' }] }
+    '3_Porównanie imion': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Pobranie danych' }, { points: 1, criterion: 'Użycie instrukcji warunkowej' }] }
+    '4_Porównanie liczb': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Pobranie danych od użytkownika i rzutowanie na float' }, { points: 1, criterion: 'Użycie instrukcji warunkowej' }] }
+    '5_Równania kwadratowe': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Pobranie danych od użytkownika' }, { points: 2, criterion: 'Obliczenia z uwzględnieniem osobnych przypadków' }, { points: 1, criterion: 'Wyświetlenie wyniku' }] }
+    '6_Suma liczb': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Rozwiązanie w pętli' }, { points: 1, criterion: 'Wykorzystanie `range` i `sum`' }] }
+    7_Średnia: { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Policzenie sumy' }, { points: 1, criterion: 'Policzenie średniej' }, { points: 1, criterion: 'Wyświetlenie wyniku porównania' }] }
+    '8_Definiowanie listy liczb': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Zdefiniowanie listy' }, { points: 1, criterion: 'Wyświetlenie listy' }] }
+    '9_Tabliczka mnożenia': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Pobranie wartości od użytkownika' }, { points: 1, criterion: 'Poprawne wyświetlenie tabliczki mnożenia' }] }
+    10_Fizzbuzz: { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Pętla po odpowiednim zakresie liczb' }, { points: 1, criterion: 'Wypisywanie Fizz' }, { points: 1, criterion: 'Wypisywanie Buzz' }, { points: 1, criterion: 'Wypisywanie FizzBuzz' }] }

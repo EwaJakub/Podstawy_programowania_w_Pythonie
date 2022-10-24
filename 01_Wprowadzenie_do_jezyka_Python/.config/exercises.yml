@@ -1,0 +1,2 @@
+exercises:
+    '1_Pierwszy program': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Poprawnie wykonane polecenie' }] }

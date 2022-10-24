@@ -1,0 +1,9 @@
+exercises:
+    '1_Pobieranie danych od użytkownika': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Pobranie danych' }, { points: 1, criterion: 'Wyświetlenie danych' }] }
+    '2_Łączenie listy': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Zdefiniowanie listy' }, { points: 1, criterion: 'Użycie metody `join`' }] }
+    '3_Dzielenie modulo': { max_points: 0, disabled: true, grading: [{ points: 0.25, criterion: 'Przypisanie liczb do zmiennych' }, { points: 0.5, criterion: 'Obliczenie modulo' }, { points: 0.25, criterion: 'Wyświetlenie wyniku' }] }
+    '4_Inkrementacja i dekrementacja': { max_points: 0, disabled: true, grading: [{ points: 0.5, criterion: 'Poprawnie zaimplementowana inkrementacja' }, { points: 0.5, criterion: 'Poprawnie zaimplementowana dekrementacja' }] }
+    '5_Porównywanie zmiennych': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Poprawnie wykonane polecenie' }] }
+    '6_Różnica wieku': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Poprawnie wykonane polecenie' }] }
+    7_Dzielenie: { max_points: 0, disabled: true, grading: [{ points: 1, criterion: Dzielenie }, { points: 1, criterion: Zaokrąglenie }] }
+    '8_Wiek użytkownika': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Pobranie danych od użytkownika' }, { points: 1, criterion: 'Policzenie wieku' }, { points: 1, criterion: 'Wyświetlenie wyniku' }] }

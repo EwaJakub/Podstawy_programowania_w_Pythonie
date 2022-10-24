@@ -1,0 +1,8 @@
+exercises:
+    '1_Typy danych': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Zapisanie zmiennych' }, { points: 1, criterion: 'Wyświetlenie zmiennych' }] }
+    '2_Wartości logiczne': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Poprawnie wykonane polecenie' }] }
+    3_Dodawanie: { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Poprawnie wykonane polecenie' }] }
+    '4_Operacje matematyczne': { max_points: 0, disabled: true, grading: [{ points: 0.5, criterion: Dodawanie }, { points: 0.5, criterion: Dzielenie }, { points: 0.5, criterion: 'Wartość całkowita z dzielenia' }, { points: 0.5, criterion: 'wyświetlenie zmiennych i typów' }] }
+    '5_Dodawanie elementów do listy': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Zdefiniowanie pustej listy' }, { points: 1, criterion: 'Dodanie elementów do listy' }] }
+    '6_Lista liczb': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Zdefiniowanie listy z zawartością' }, { points: 1, criterion: 'Wypisanie przedostatniego elementu' }] }
+    '7_Pobieranie elementów z listy': { max_points: 0, disabled: true, grading: [{ points: 1, criterion: 'Wypisanie pierwszego elementu' }, { points: 1, criterion: 'Wypisanie ostatniego elementu' }] }
