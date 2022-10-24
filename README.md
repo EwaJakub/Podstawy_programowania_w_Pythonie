@@ -16,8 +16,4 @@ Następnie skommituj zmiany komendą `git commit -m "nazwa_commita"`
 4. Wypchnij zmiany do swojego repozytorium na GitHubie.  Użyj do tego komendy `git push origin master`
 5. Stwórz [*pull request*](https://help.github.com/articles/creating-a-pull-request) do oryginalnego repozytorium, gdy skończysz wszystkie zadania.
 
-Poszczególne zadania rozwiązuj w odpowiednich plikach.
-
 ### Poszczególne zadania rozwiązuj w odpowiednich plikach.
-
-**Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków, które są zrobione z tego repozytorium.**
